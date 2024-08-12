@@ -7,10 +7,7 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem;
-    text-align: center;
+    text-align: none;
 }
 
 nav ul {
@@ -28,10 +25,3 @@ nav ul li a {
     text-decoration: none;
 }
 
-main {
-    padding: 2rem;
-}
-
-section {
-    margin-bottom: 2rem;
-}
